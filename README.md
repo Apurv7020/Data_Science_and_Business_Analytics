@@ -6,5 +6,5 @@ Task3 : Exploratory Data Analysis - Retail
 Task4 : Exploratory Data Analysis - Terrorism
 Task5 : Exploratory Data Analysis - Sports
 Task6 : Prediction using Decision Tree Algorithm
-Task7 : Stock Market Prediction using Numerical and Textual Analysis
+Task7 : Stock Market Prediction using Numerical and Textual Analysis (includes AAPL.csv)
 Task8 : Timeline Analysis : Covid-19
